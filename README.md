@@ -83,6 +83,13 @@ AgroGuard addresses this challenge through:
 
 ---
 
+## 🛠️ Hardware components
+![image alt]
+![image alt]
+
+
+---
+
 ## 📸 Sample Output
 
 *Images or demo video can be inserted here to show detection in action.*
