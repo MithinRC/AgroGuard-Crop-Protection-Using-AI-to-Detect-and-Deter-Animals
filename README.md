@@ -84,15 +84,17 @@ AgroGuard addresses this challenge through:
 ---
 
 ## 🛠️ Hardware components
-![image alt]
-![image alt]
+![image alt](https://github.com/MithinRC/AgroGuard-Crop-Protection-Using-AI-to-Detect-and-Deter-Animals/blob/42bea73bfa77eb518ec10ca7fb6cfe7c8ce5d1d4/Screenshot%202025-08-04%20164820.png)
+![image alt](https://github.com/MithinRC/AgroGuard-Crop-Protection-Using-AI-to-Detect-and-Deter-Animals/blob/42bea73bfa77eb518ec10ca7fb6cfe7c8ce5d1d4/Screenshot%202025-08-04%20164835.png)
 
 
 ---
 
 ## 📸 Sample Output
 
-*Images or demo video can be inserted here to show detection in action.*
+![image alt](https://github.com/MithinRC/AgroGuard-Crop-Protection-Using-AI-to-Detect-and-Deter-Animals/blob/42bea73bfa77eb518ec10ca7fb6cfe7c8ce5d1d4/Screenshot%202025-08-04%20164853.png)
+![image alt](https://github.com/MithinRC/AgroGuard-Crop-Protection-Using-AI-to-Detect-and-Deter-Animals/blob/42bea73bfa77eb518ec10ca7fb6cfe7c8ce5d1d4/Screenshot%202025-08-04%20164859.png)
+![image alt](https://github.com/MithinRC/AgroGuard-Crop-Protection-Using-AI-to-Detect-and-Deter-Animals/blob/42bea73bfa77eb518ec10ca7fb6cfe7c8ce5d1d4/Screenshot%202025-08-04%20164906.png)
 
 ---
 
