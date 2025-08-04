@@ -116,7 +116,11 @@ For queries or collaborations, please reach out at:
 📧 mithinchoodappa@gmail.com
 
 ---
+## 📄 Certificate of Publication
 
+![image alt](https://github.com/MithinRC/AgroGuard-Crop-Protection-Using-AI-to-Detect-and-Deter-Animals/blob/a931146e87d74b60e9b9bec7f09accfa357194a6/Mithin%20R%20C.jpg)
+
+---
 ## 📚 Reference
 
 Published in the *International Journal of Scientific Research in Engineering and Management (IJSREM)*  
